@@ -8,13 +8,9 @@
 
 ## Sobre Mim
 
-Sou Backend Engineer com 12+ anos de experiência em desenvolvimento full-stack e mobile.  
-Especialista em .NET Core, microsserviços e pipelines CI/CD em Azure DevOps.  
-Desenvolvo soluções que combinam performance, segurança e IA aplicada.
+Backend Engineer com 12+ anos de experiência em .NET Core, Clean Architecture e microsserviços. Na Grendene S/A, lidero squads full-stack (React + TypeScript) e orquestro pipelines CI/CD no Azure DevOps, garantindo deploys automatizados e alta disponibilidade de APIs RESTful.
 
-Durante meu TCC na UNIFTEC, criei um protótipo de IA para detecção de pragas em soja usando  
-TensorFlow e OpenCV. Nos últimos anos, migrei sistemas OutSystems para .NET Core e mentorei  
-times técnicos em projetos de alta complexidade.
+Especialista em DDD, SOLID e TDD, com histórico de integração de soluções de IA (Python, TensorFlow) a sistemas .NET para automação de regras de negócio e ganhos de performance.
 
 Busco oportunidades como Backend Engineer, Software Architect ou Tech Lead,  
 especialmente em ambientes que valorizem Clean Code, DDD e inovação contínua.
