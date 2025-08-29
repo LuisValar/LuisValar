@@ -1,31 +1,75 @@
-# Olá 👋 Bem vindo!
-# Me chamo Luís Henrique Valar 😃
-# Sou Desenvolvedor Full-Stack
+# Luís Henrique Valar
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luis&#8208;Valar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-henrique-valar/)](https://www.linkedin.com/in/luis-henrique-valar/)
+**Backend Engineer** · .NET Core · Clean Architecture · Microservices · CI/CD · Azure
 
+[![LinkedIn][linkedin-badge]][linkedin-link]
+[![GitHub Stats][github-stats-badge]][github-link]
 
-## Sobre Mim:
+---
 
-_Trabalho com tecnologia desde os meus 18 anos de idade, iniciando como atendente de HelpDesk, prestando suporte a usuários, passando por analista de suporte, testes de versão e chegando a desenvolvedor de sistemas nos últimos anos.
- Sou formado em engenharia de computação pela UNIFTEC (2023), no projeto TCC desenvolvi e estudei um protótipo de inteligência artificial voltada para a agricultura, utilizando visão computacional e padrões em imagens para detecção de pragas na cultura da soja, utilizando ferramentas Open Source como TensorFlow e OpenCV. 
- Atualmente tenho focado meus estudos para desenvolvimento web, utilizando .Net, HTML, CSS, JavaScript e React, utilizando a plataforma DIO. Costumo de atualizar do mundo da tecnologia por meio de NewsLatter e notícias em blogs, jornais, etc._
+## Sobre Mim
 
-## _Hards Skeels:_ ##
+Sou Backend Engineer com 12+ anos de experiência em desenvolvimento full-stack e mobile.  
+Especialista em .NET Core, microsserviços e pipelines CI/CD em Azure DevOps.  
+Desenvolvo soluções que combinam performance, segurança e IA aplicada.
 
-- C# - .Net - .Net Core
-- HTML/CSS
-- SQL
-- React (Iniciando os estudos)_
+Durante meu TCC na UNIFTEC, criei um protótipo de IA para detecção de pragas em soja usando  
+TensorFlow e OpenCV. Nos últimos anos, migrei sistemas OutSystems para .NET Core e mentorei  
+times técnicos em projetos de alta complexidade.
 
-## _Soft Skeel:_ ##
-- Comprometimento
-- Comunicação
-- Inglês Básico
-- Trabalho em equipe
+Busco oportunidades como Backend Engineer, Software Architect ou Tech Lead,  
+especialmente em ambientes que valorizem Clean Code, DDD e inovação contínua.
 
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisValar&show_icons=true&theme=dracula)](https://github.com/LuisValar/github-readme-stats)
+## Hard Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValar)](https://github.com/anuraghazra/github-readme-stats)
+- **Linguagens**: C#, TypeScript, JavaScript, Dart, Kotlin  
+- **Frameworks**: ASP.NET Core, React (Vite), Flutter  
+- **DevOps & Cloud**: Azure DevOps, Docker, Kubernetes, CI/CD, Terraform  
+- **Databases**: SQL Server, PostgreSQL, Redis, MongoDB, RabbitMQ  
+- **IA & Visão Computacional**: Python, TensorFlow, OpenCV, NLP  
 
+---
+
+## Soft Skills
+
+- Comprometimento  
+- Comunicação  
+- Trabalho em equipe  
+- Inglês (Intermediário leitura/escrita · Básico conversação)  
+
+---
+
+## GitHub Stats
+
+[![Luis’s GitHub stats][github-stats-badge]][github-link]
+
+---
+
+## Projetos em Destaque
+
+- 🔧 **SpecAI** · [.NET Core + Python](https://github.com/LuisValar/SpecAI)  
+  Ferramenta de análise de código e geração de requisitos técnicos.
+
+- 🌱 **DetectSoy** · [TensorFlow & OpenCV](https://github.com/LuisValar/tcc-pragas-soja-ia)  
+  Protótipo de IA para identificar pragas em imagens de plantações de soja.
+
+- 💻 **Sistema Bancário Regional** · [React + .NET Core](https://github.com/LuisValar/banco-regional)  
+  Plataforma full-stack para gestão de operações financeiras.
+
+---
+
+## Contato
+
+- 📧 luis.valar@outlook.com  
+- 🔗 [LinkedIn][linkedin-link]  
+- 🐙 [GitHub][github-link]  
+
+---
+
+<!-- Badges -->
+[linkedin-badge]: https://img.shields.io/badge/-Luis_Valar-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-link]: https://www.linkedin.com/in/luis-henrique-valar/
+[github-stats-badge]: https://github-readme-stats.vercel.app/api?username=LuisValar&show_icons=true&theme=dracula
+[github-link]: https://github.com/LuisValar
