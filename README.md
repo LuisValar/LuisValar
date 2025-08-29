@@ -2,7 +2,6 @@
 
 **Backend Engineer** · .NET Core · Clean Architecture · Microservices · CI/CD · Azure
 
-[![LinkedIn][linkedin-badge]][linkedin-link]
 [![GitHub Stats][github-stats-badge]][github-link]
 
 ---
